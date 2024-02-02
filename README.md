@@ -20,8 +20,6 @@ The SCF is a comprehensive catalog of controls that is designed to enable compan
   
 # Screenshots
 
-![Screenshot 2023-11-12 003951](https://github.com/secscripts/SCF-Assessment-Configurator/assets/25989993/f780a697-9f11-4e23-8e6e-f87236301e34)
+![Config](https://github.com/SecurityBagel/SecureControlsFramework_PowerBI_/assets/138625733/645d641a-9f6b-4847-b4d1-fe76af43b000)
 
-![Screenshot 2023-11-12 004113](https://github.com/secscripts/SCF-Assessment-Configurator/assets/25989993/9fd90a6c-ceb7-4f1d-bd48-fb1dd71ad584)
-
-![Screenshot 2023-11-12 004143](https://github.com/secscripts/SCF-Assessment-Configurator/assets/25989993/411d3eb8-1a5e-4f4b-b4e5-3780e165a354)
+![Control Tailoring](https://github.com/SecurityBagel/SecureControlsFramework_PowerBI_/assets/138625733/6b068a2f-3e81-4961-98a0-b1dad3b5c09b)
