@@ -15,8 +15,8 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 2. Download and run the .pbit or .pbix file and wait for auto download or refresh of source files.
 
 # Usage
-- Select one or more authoritative statuatory, regulatory, contratual or industry frameworks from the Secure Controls Framework (SCF). 
-- Analyze and tailor your desired SCF controls and analyze SCF mappings.
+- Select one or more authoritative statuatory, regulatory, contractual or industry frameworks from the Secure Controls Framework (SCF). 
+- Analyze and tailor your desired SCF controls and view mappings.
 - Generate control and assessment spreadsheets.
 - Use as a foundational tool for your GRC program.
   
