@@ -7,7 +7,8 @@ An open-source Power BI app for interacting with the Secure Controls Framework (
 All source data is licensed by the SCF at https://securecontrolsframework.com/terms-conditions/
 
 # Secure Controls Framework (SCF) 
-The SCF provides a free cybersecurity control set with mappings to applicable laws, regulations and other frameworks, and other invaluable cybersecurity resources at https://securecontrolsframework.com/
+The SCF provides a free cybersecurity control set with mappings to applicable laws, regulations and other frameworks.
+See their invaluable cybersecurity resources at https://securecontrolsframework.com/
 
 # Directions
 1. Download the free Microsoft Power BI Desktop (https://powerbi.microsoft.com/en-us/desktop/)  
