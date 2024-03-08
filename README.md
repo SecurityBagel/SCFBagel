@@ -13,13 +13,12 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 
 # Directions
 1. Download the free Microsoft Power BI Desktop. (https://powerbi.microsoft.com/en-us/desktop/)  
-2. Download and run the .pbit or .pbix file and wait for auto download or refresh of source files.
+2. Publish to your internal Power BI Service for selecting, tailoring, and exporting the Secure Controls Framework and assessment plans to spreadsheets.
 
 # Usage
-- Interact with the Power BI Desktop buttons by holding CTRL+click, or upload to your own Power BI Service for web-based experience.
 - Select one or more authoritative statuatory, regulatory, contractual or industry frameworks from the Secure Controls Framework (SCF). 
-- Analyze and tailor your desired SCF controls and view mappings.
-- Generate control and assessment spreadsheets.
+- View control mappings and tailor SCF controls.
+- Generate control and assessment plan spreadsheets.
 - Use as a foundational tool for your GRC program.
   
 # Screenshots
