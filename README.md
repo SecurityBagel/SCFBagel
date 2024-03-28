@@ -2,7 +2,7 @@
   <img src="https://github.com/SecurityBagel/SecurityBagel/blob/main/SecurityBagel.png"/>
 </p>
 
-# SecureControlsFramework_PowerBI_
+# SCF Bagel
 An open-source Power BI app for interacting with the Secure Controls Framework (SCF). 
 All source data is licensed by the SCF at https://securecontrolsframework.com/terms-conditions/.
 Security Bagel is not affiliated or endorsed by the Secure Controls Framework.
@@ -13,7 +13,7 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 
 # Directions
 1. Download the free Microsoft Power BI Desktop. (https://powerbi.microsoft.com/en-us/desktop/)  
-2. Publish to your internal Power BI Service for selecting, tailoring, and exporting the Secure Controls Framework and assessment plans to spreadsheets.
+2. Run locally or publish to your internal Power BI Service.
 
 # Usage
 - Select one or more authoritative statuatory, regulatory, contractual or industry frameworks from the Secure Controls Framework (SCF). 
