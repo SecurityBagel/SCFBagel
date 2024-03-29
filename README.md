@@ -22,4 +22,4 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 - Use as a foundational tool for your GRC program.
   
 # Screenshots
-![](https://github.com/SecurityBagel/SecureControlsFramework_PowerBI_/blob/main/Secure%20Controls%20Framework%20%20-%20Power%20BI.gif)
+![](https://github.com/SecurityBagel/SCFBagel/blob/main/SCFBagel.gif)
