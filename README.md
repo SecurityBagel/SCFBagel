@@ -3,9 +3,9 @@
 </p>
 
 # SCF Bagel
-An open-source Power BI app for interacting with the Secure Controls Framework (SCF). 
-All source data is licensed by the SCF at https://securecontrolsframework.com/terms-conditions/.
-Security Bagel is not affiliated or endorsed by the Secure Controls Framework.
+- An open-source Power BI app for interacting with the Secure Controls Framework (SCF) Excel spreadsheet. 
+- All source data is created and licensed by the SCF at https://securecontrolsframework.com/terms-conditions/.
+- Security Bagel is not affiliated or endorsed by the Secure Controls Framework.
 
 # Secure Controls Framework (SCF) 
 The SCF provides a free cybersecurity control set with mappings to applicable laws, regulations and other frameworks.
