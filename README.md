@@ -20,6 +20,12 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 - View control mappings and tailor SCF controls.
 - Generate control and assessment plan spreadsheets.
 - Use as a foundational tool for your GRC program.
+
+## This repository is licensed under the GNU General Public License (GPL).
+Organizations can freely use and modify these Power BI templates to suit their needs.
+- If you distribute modified versions publicly, they must remain open-source under the same GPL license.
+- Attribution: Please credit the original author when showcasing or redistributing these templates.
+- If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
   
 # Screenshots
 ![](https://github.com/SecurityBagel/SCFBagel/blob/main/SCFBagel.gif)
