@@ -30,5 +30,6 @@ Organizations can freely use and modify these Power BI templates to suit their n
 - Attribution: Please credit the original author when showcasing or redistributing these templates.
 - If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
 
-# Screenshots
+# Demo
+https://securitybagel.github.io/SCFBagel/
 
