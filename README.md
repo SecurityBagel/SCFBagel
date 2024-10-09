@@ -16,14 +16,14 @@ See their invaluable cybersecurity resources at https://securecontrolsframework.
 2. Run locally or publish to your internal Power BI Service.
 
 # Usage
-- SCF Config
--- Select one or more authoritative statuatory, regulatory, contractual or industry frameworks from SCF.
--- Tailor controls from the Secure Controls Framework
--- Export assessment worksheets to a local folder or modify to suite your needs. Convert .csv files to Excel
-- SCF Manage
--- Update the assessments folder in Power Query to your assessment folder that contains 1 or more assessments 
+## SCF Config
+- Select one or more authoritative statuatory, regulatory, contractual or industry frameworks from SCF.
+- Tailor controls from the Secure Controls Framework
+- Export assessment worksheets to a local folder or modify to suite your needs. Convert .csv files to Excel
+## SCF Manage
+- Update the assessments folder in Power Query to your assessment folder that contains 1 or more assessments 
 
-## Contributing
+# Contributing
 This repository is licensed under the GNU General Public License (GPL).
 Organizations can freely use and modify these Power BI templates to suit their needs.
 - If you distribute modified versions publicly, they must remain open-source under the same GPL license.
