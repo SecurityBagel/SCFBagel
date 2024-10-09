@@ -31,4 +31,4 @@ Organizations can freely use and modify these Power BI templates to suit their n
 - If you make improvements to the data model, performance optimization, or enhancements to calculations, please submit those changes back to this repository. This helps ensure that the community can benefit from improvements and continue collaborating to make the templates more effective.
 
 # Screenshots
-[View the Power BI Report](https://app.powerbi.com/view?r=<iframe title="SCFManage" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMWYzNGM1ODktNzQ3Ni00MGM0LTk1NGEtZDZmOTlhMzZiNTJkIiwidCI6IjJiMDc4ODQ4LWM0M2UtNDVmMS04MzdlLTUyODBhMjVhNzZlZiIsImMiOjN9" frameborder="0" allowFullScreen="true"></iframe>)
+
